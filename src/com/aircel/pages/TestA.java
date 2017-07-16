@@ -8,7 +8,7 @@ public class TestA {
 	
 	@Test
 	public void login() {
-		//Ganesh
+		//GaneshGanesh
 		Reporter.log("Maven test method",true);
 	}
 
